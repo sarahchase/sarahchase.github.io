@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-What happens if I type text here?
-
