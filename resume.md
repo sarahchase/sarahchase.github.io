@@ -4,6 +4,11 @@ title: Sarah Chase
 permalink: /resume/
 ---
 
+[Download my resume](/_assets/sarah_chase_resume.pdf){:download=sarah_chase_resume.pdf}
+[Download my CV](/_assets/sarah_chase_cv.pdf){:download=sarah_chase_cv.pdf}
+
+---
+
 - Email: sechase@ucla.edu
 - Phone: (805) 895-6401
 
