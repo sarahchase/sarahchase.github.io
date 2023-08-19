@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Resume and CV
+title: Sarah Chase
 permalink: /resume/
 ---
-
-## Sarah Chase
 
 - Email: sechase@ucla.edu
 - Phone: (805) 895-6401
