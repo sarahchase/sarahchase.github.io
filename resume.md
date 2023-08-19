@@ -4,8 +4,8 @@ title: Sarah Chase
 permalink: /resume/
 ---
 
-[Download my resume](/assets/sarah_chase_resume.pdf){:download="assets/sarah_chase_resume.pdf"}
-[Download my CV](/assets/sarah_chase_cv.pdf){:download="assets/sarah_chase_cv.pdf"}
+[Download my resume](/assets/sarah_chase_resume.pdf){:download="sarah_chase_resume.pdf"}
+[Download my CV](/assets/sarah_chase_cv.pdf){:download="sarah_chase_cv.pdf"}
 
 ---
 
