@@ -10,7 +10,7 @@ permalink: /resume/
 <br>Email: <a href="mailto:sechase@ucla.edu">sechase@ucla.edu</a>
 <br>Phone: (805) 895-6401
 
-<img src="/assets/sarah_chase_headshot_2023.jpg" alt="Sarah Chase headshot">
+<img src="/assets/sarah_chase_headshot_2023.jpg" alt="Sarah Chase headshot" width=300>
 
 ---
 
